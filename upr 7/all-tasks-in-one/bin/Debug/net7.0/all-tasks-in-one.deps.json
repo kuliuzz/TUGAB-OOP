@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "all-tasks-in-one/1.0.0": {
+        "runtime": {
+          "all-tasks-in-one.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "all-tasks-in-one/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

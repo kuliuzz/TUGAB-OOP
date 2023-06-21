@@ -1,0 +1,15 @@
+C:\CODE\UNI\OOP C#\upr 2\taskThree\bin\Debug\net7.0\taskThree.exe
+C:\CODE\UNI\OOP C#\upr 2\taskThree\bin\Debug\net7.0\taskThree.deps.json
+C:\CODE\UNI\OOP C#\upr 2\taskThree\bin\Debug\net7.0\taskThree.runtimeconfig.json
+C:\CODE\UNI\OOP C#\upr 2\taskThree\bin\Debug\net7.0\taskThree.dll
+C:\CODE\UNI\OOP C#\upr 2\taskThree\bin\Debug\net7.0\taskThree.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\taskThree.csproj.AssemblyReference.cache
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\taskThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\taskThree.AssemblyInfoInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\taskThree.AssemblyInfo.cs
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\taskThree.csproj.CoreCompileInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\taskThree.dll
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\refint\taskThree.dll
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\taskThree.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\taskThree.genruntimeconfig.cache
+C:\CODE\UNI\OOP C#\upr 2\taskThree\obj\Debug\net7.0\ref\taskThree.dll

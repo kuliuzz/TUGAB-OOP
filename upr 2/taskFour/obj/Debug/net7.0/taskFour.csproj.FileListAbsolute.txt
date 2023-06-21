@@ -1,0 +1,15 @@
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\taskFour.csproj.AssemblyReference.cache
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\taskFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\taskFour.AssemblyInfoInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\taskFour.AssemblyInfo.cs
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\taskFour.csproj.CoreCompileInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskFour\bin\Debug\net7.0\taskFour.exe
+C:\CODE\UNI\OOP C#\upr 2\taskFour\bin\Debug\net7.0\taskFour.deps.json
+C:\CODE\UNI\OOP C#\upr 2\taskFour\bin\Debug\net7.0\taskFour.runtimeconfig.json
+C:\CODE\UNI\OOP C#\upr 2\taskFour\bin\Debug\net7.0\taskFour.dll
+C:\CODE\UNI\OOP C#\upr 2\taskFour\bin\Debug\net7.0\taskFour.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\taskFour.dll
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\refint\taskFour.dll
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\taskFour.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\taskFour.genruntimeconfig.cache
+C:\CODE\UNI\OOP C#\upr 2\taskFour\obj\Debug\net7.0\ref\taskFour.dll

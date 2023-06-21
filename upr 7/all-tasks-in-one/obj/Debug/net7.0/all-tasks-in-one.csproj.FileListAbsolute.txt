@@ -1,0 +1,15 @@
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\bin\Debug\net7.0\all-tasks-in-one.exe
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\bin\Debug\net7.0\all-tasks-in-one.deps.json
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\bin\Debug\net7.0\all-tasks-in-one.runtimeconfig.json
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\bin\Debug\net7.0\all-tasks-in-one.dll
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\bin\Debug\net7.0\all-tasks-in-one.pdb
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\all-tasks-in-one.csproj.AssemblyReference.cache
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\all-tasks-in-one.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\all-tasks-in-one.AssemblyInfoInputs.cache
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\all-tasks-in-one.AssemblyInfo.cs
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\all-tasks-in-one.csproj.CoreCompileInputs.cache
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\all-tasks-in-one.dll
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\refint\all-tasks-in-one.dll
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\all-tasks-in-one.pdb
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\all-tasks-in-one.genruntimeconfig.cache
+C:\CODE\UNI\OOP C#\upr 7\all-tasks-in-one\obj\Debug\net7.0\ref\all-tasks-in-one.dll

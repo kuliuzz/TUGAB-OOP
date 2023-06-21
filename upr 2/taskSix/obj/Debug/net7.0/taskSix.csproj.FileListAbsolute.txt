@@ -1,0 +1,15 @@
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\taskSix.csproj.AssemblyReference.cache
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\taskSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\taskSix.AssemblyInfoInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\taskSix.AssemblyInfo.cs
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\taskSix.csproj.CoreCompileInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskSix\bin\Debug\net7.0\taskSix.exe
+C:\CODE\UNI\OOP C#\upr 2\taskSix\bin\Debug\net7.0\taskSix.deps.json
+C:\CODE\UNI\OOP C#\upr 2\taskSix\bin\Debug\net7.0\taskSix.runtimeconfig.json
+C:\CODE\UNI\OOP C#\upr 2\taskSix\bin\Debug\net7.0\taskSix.dll
+C:\CODE\UNI\OOP C#\upr 2\taskSix\bin\Debug\net7.0\taskSix.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\taskSix.dll
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\refint\taskSix.dll
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\taskSix.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\taskSix.genruntimeconfig.cache
+C:\CODE\UNI\OOP C#\upr 2\taskSix\obj\Debug\net7.0\ref\taskSix.dll

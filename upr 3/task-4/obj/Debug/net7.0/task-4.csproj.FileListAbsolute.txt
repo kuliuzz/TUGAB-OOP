@@ -1,0 +1,15 @@
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\task-4.csproj.AssemblyReference.cache
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\task-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\task-4.AssemblyInfoInputs.cache
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\task-4.AssemblyInfo.cs
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\task-4.csproj.CoreCompileInputs.cache
+C:\CODE\UNI\OOP C#\upr 3\task-4\bin\Debug\net7.0\task-4.exe
+C:\CODE\UNI\OOP C#\upr 3\task-4\bin\Debug\net7.0\task-4.deps.json
+C:\CODE\UNI\OOP C#\upr 3\task-4\bin\Debug\net7.0\task-4.runtimeconfig.json
+C:\CODE\UNI\OOP C#\upr 3\task-4\bin\Debug\net7.0\task-4.dll
+C:\CODE\UNI\OOP C#\upr 3\task-4\bin\Debug\net7.0\task-4.pdb
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\task-4.dll
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\refint\task-4.dll
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\task-4.pdb
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\task-4.genruntimeconfig.cache
+C:\CODE\UNI\OOP C#\upr 3\task-4\obj\Debug\net7.0\ref\task-4.dll

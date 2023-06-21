@@ -1,0 +1,15 @@
+C:\CODE\UNI\OOP C#\upr 2\taskEight\bin\Debug\net7.0\taskEight.exe
+C:\CODE\UNI\OOP C#\upr 2\taskEight\bin\Debug\net7.0\taskEight.deps.json
+C:\CODE\UNI\OOP C#\upr 2\taskEight\bin\Debug\net7.0\taskEight.runtimeconfig.json
+C:\CODE\UNI\OOP C#\upr 2\taskEight\bin\Debug\net7.0\taskEight.dll
+C:\CODE\UNI\OOP C#\upr 2\taskEight\bin\Debug\net7.0\taskEight.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\taskEight.csproj.AssemblyReference.cache
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\taskEight.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\taskEight.AssemblyInfoInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\taskEight.AssemblyInfo.cs
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\taskEight.csproj.CoreCompileInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\taskEight.dll
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\refint\taskEight.dll
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\taskEight.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\taskEight.genruntimeconfig.cache
+C:\CODE\UNI\OOP C#\upr 2\taskEight\obj\Debug\net7.0\ref\taskEight.dll

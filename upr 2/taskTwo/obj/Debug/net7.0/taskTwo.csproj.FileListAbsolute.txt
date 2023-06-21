@@ -1,0 +1,15 @@
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\bin\Debug\net7.0\taskTwo.exe
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\bin\Debug\net7.0\taskTwo.deps.json
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\bin\Debug\net7.0\taskTwo.runtimeconfig.json
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\bin\Debug\net7.0\taskTwo.dll
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\bin\Debug\net7.0\taskTwo.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\taskTwo.csproj.AssemblyReference.cache
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\taskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\taskTwo.AssemblyInfoInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\taskTwo.AssemblyInfo.cs
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\taskTwo.csproj.CoreCompileInputs.cache
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\taskTwo.dll
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\refint\taskTwo.dll
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\taskTwo.pdb
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\taskTwo.genruntimeconfig.cache
+C:\CODE\UNI\OOP C#\upr 2\taskTwo\obj\Debug\net7.0\ref\taskTwo.dll
